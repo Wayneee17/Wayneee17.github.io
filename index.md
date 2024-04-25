@@ -5,4 +5,3 @@
 ## Welcome to my blog!!!
 My name is Weixin Li, it is the first that i have a blog and i want to write down someting really important about my study.
 
-\
